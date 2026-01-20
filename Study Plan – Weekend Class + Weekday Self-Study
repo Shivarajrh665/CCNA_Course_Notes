@@ -1,0 +1,230 @@
+Great 👍 Since you’ve joined **weekend offline CCNA classes at Network Rhinos**, the best approach is to **align self-study during weekdays** with what you learn in class. Below is a **practical, beginner-friendly CCNA study plan** you can follow.
+
+---
+
+## CCNA (200-301) Study Plan – Weekend Class + Weekday Self-Study
+
+### Overall Duration
+
+**10–12 weeks** (ideal if you’re consistent)
+
+* **Weekend:** Offline classes (concept learning + doubt clearing)
+* **Weekdays:** 1.5–2 hours/day (revision + labs)
+
+---
+
+## Weekly Structure (Recommended)
+
+### Monday–Wednesday
+
+* Revise topics taught on the weekend
+* Read theory + watch 1–2 short videos
+* Take notes in your own words
+
+### Thursday–Friday
+
+* **Hands-on practice** (Packet Tracer)
+* Practice CLI commands
+* Do 15–20 MCQs/day
+
+### Saturday–Sunday
+
+* Attend Network Rhinos class
+* Ask doubts
+* Note important exam points
+
+---
+
+## Topic-Wise CCNA Study Plan
+
+### Week 1: Networking Basics
+
+* What is a network?
+* LAN, WAN, MAN
+* OSI vs TCP/IP model
+* Types of cables
+* Bandwidth, latency, throughput
+
+👉 Practice: Identify OSI layers with examples
+
+---
+
+### Week 2: Network Devices
+
+* Router vs Switch
+* Hub, Bridge, Repeater
+* Access Point, Firewall
+* MAC address
+
+👉 Packet Tracer:
+
+* Connect 2 PCs with a switch
+
+---
+
+### Week 3: Ethernet & Switching
+
+* Ethernet standards
+* ARP
+* MAC address table
+* Collision vs Broadcast domain
+
+👉 Commands:
+
+```
+show mac address-table
+```
+
+---
+
+### Week 4: IP Addressing
+
+* IPv4 structure
+* Classes (A, B, C)
+* Private vs Public IP
+* Binary basics
+
+👉 Practice:
+
+* Convert decimal ↔ binary
+
+---
+
+### Week 5: Subnetting (VERY IMPORTANT 🔥)
+
+* CIDR
+* Subnet mask
+* VLSM
+* Subnetting tricks
+
+👉 Daily practice (15–20 questions)
+👉 Don’t move forward until confident
+
+---
+
+### Week 6: Routing Basics
+
+* What is routing?
+* Static routing
+* Default route
+* Routing table
+
+👉 Commands:
+
+```
+ip route
+show ip route
+```
+
+---
+
+### Week 7: Dynamic Routing
+
+* RIP (concept)
+* OSPF (area 0 focus)
+* Administrative Distance
+
+👉 Packet Tracer:
+
+* 3 routers OSPF lab
+
+---
+
+### Week 8: VLAN & Trunking
+
+* VLAN concepts
+* Access vs Trunk
+* Inter-VLAN routing
+* Router-on-a-stick
+
+👉 Commands:
+
+```
+vlan
+switchport mode access
+switchport mode trunk
+```
+
+---
+
+### Week 9: NAT & WAN
+
+* NAT types (Static, Dynamic, PAT)
+* WAN technologies
+* HDLC, PPP
+
+---
+
+### Week 10: Network Security
+
+* ACL (Standard & Extended)
+* Port security
+* Basic firewall concepts
+
+👉 Commands:
+
+```
+access-list
+ip access-group
+```
+
+---
+
+### Week 11: Wireless & QoS
+
+* Wi-Fi standards
+* WPA2/WPA3
+* QoS basics
+
+---
+
+### Week 12: Revision & Mock Tests
+
+* Full syllabus revision
+* 3–5 mock exams
+* Weak area improvement
+
+---
+
+## Study Materials (Recommended)
+
+### Theory
+
+* **Network Rhinos notes**
+* Cisco Official CCNA Guide (optional)
+* YouTube (for backup):
+
+  * Jeremy’s IT Lab
+  * David Bombal
+
+### Practice
+
+* **Cisco Packet Tracer**
+* Boson ExSim (if available)
+* Online MCQs
+
+---
+
+## Daily Time Commitment
+
+* Weekdays: **1.5–2 hours**
+* Weekend: Class + 1 hour revision
+
+---
+
+## Exam Tip 💡
+
+* Focus on **Subnetting, VLANs, OSPF, ACLs**
+* Don’t just memorize — **practice labs**
+* Understand *why* commands are used
+
+---
+
+If you want, I can:
+
+* Customize this plan based on **your background (student / working / fresher)**
+* Give you a **daily timetable**
+* Share **Packet Tracer lab practice list**
+* Help you plan **exam date strategy**
+
+Just tell me 👍
